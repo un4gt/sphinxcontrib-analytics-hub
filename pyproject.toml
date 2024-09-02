@@ -1,6 +1,6 @@
 [project]
 name = "sphinxcontrib-analytics-hub"
-version = "0.0.2"
+version = "0.0.3"
 description = "Sphinx extension for googleanalytics and baiduanalytics"
 authors = [
     {name = "un4gt", email = "mt3085570450@outlook.com"},
